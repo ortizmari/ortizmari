@@ -1,4 +1,4 @@
-Olá! Eu sou a Mariana Ortiz
+<strong>Olá! Eu sou a Mariana Ortiz👋</strong>
 
 ##
 
